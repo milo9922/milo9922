@@ -2,7 +2,8 @@
 
 Thank you for visiting my github profile. Here are some informations about me:
 
-- 🔭 Computer Science student at Maria Curie-Sklodowska University in Lublin
+- :computer: Junior Java Developer at Transition-Technologies Software
+- 🔭 Computer Science student at WSEI Lublin
 - 📕 Currently learning Java and C++
 - 🥅 Main goal: Become Good Software Developer 💪
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miłosz-tura) | Email: milosz.tura@vp.pl
