@@ -2,7 +2,7 @@
 
 Thank you for visiting my github profile. Here are some informations about me:
 
-- :computer: Java Developer
+- :computer: Java Developer with over 2 years of experience (currently looking for a job)
 - 🔭 Computer Science student at WSEI Lublin
 - 📕 Currently learning Kafka
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miłosz-tura) | Email: milosz.tura@vp.pl
