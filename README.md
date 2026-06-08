@@ -3,6 +3,7 @@
 Thank you for visiting my github profile. Here are some informations about me:
 
 - :computer: Java Developer with over 2 years of commercial experience
+- ☕ Programming in Java since 2019
 - 🔭 Computer Science student at WSEI Lublin
 - 📕 Currently learning AWS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miłosz-tura) | Email: milosz.tura@vp.pl
